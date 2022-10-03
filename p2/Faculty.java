@@ -16,6 +16,6 @@ public class Faculty {
         System.out.println("Package2");
         System.out.println("Faculty ID : " +fid);
         System.out.println("Subject : " +subject);
-        System.out.println("-----------------------------------------");
+        System.out.println("***************************************");
     }
 }
